@@ -7,3 +7,7 @@ We are learning how to make commits.
 3. git commit -m "adding ..." -> creates a commit
 4. 
 5. goodbye
+6. docs
+7. repositories, branches, commits, tags
+8. 
+
